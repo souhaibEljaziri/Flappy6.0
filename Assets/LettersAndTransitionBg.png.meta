@@ -1,0 +1,1172 @@
+fileFormatVersion: 2
+guid: 4eb0a094c6fb03f4db2e626b486d6490
+timeCreated: 1528257350
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LettersAndTransitionBg_0
+    21300002: LettersAndTransitionBg_1
+    21300004: LettersAndTransitionBg_2
+    21300006: LettersAndTransitionBg_3
+    21300008: LettersAndTransitionBg_4
+    21300010: LettersAndTransitionBg_5
+    21300012: LettersAndTransitionBg_6
+    21300014: LettersAndTransitionBg_7
+    21300016: LettersAndTransitionBg_8
+    21300018: LettersAndTransitionBg_9
+    21300020: LettersAndTransitionBg_10
+    21300022: LettersAndTransitionBg_11
+    21300024: LettersAndTransitionBg_12
+    21300026: LettersAndTransitionBg_13
+    21300028: LettersAndTransitionBg_14
+    21300030: LettersAndTransitionBg_15
+    21300032: LettersAndTransitionBg_16
+    21300034: LettersAndTransitionBg_17
+    21300036: LettersAndTransitionBg_18
+    21300038: LettersAndTransitionBg_19
+    21300040: LettersAndTransitionBg_20
+    21300042: LettersAndTransitionBg_21
+    21300044: LettersAndTransitionBg_22
+    21300046: LettersAndTransitionBg_23
+    21300048: LettersAndTransitionBg_24
+    21300050: LettersAndTransitionBg_25
+    21300052: LettersAndTransitionBg_26
+    21300054: LettersAndTransitionBg_27
+    21300056: LettersAndTransitionBg_28
+    21300058: LettersAndTransitionBg_29
+    21300060: LettersAndTransitionBg_30
+    21300062: LettersAndTransitionBg_31
+    21300064: LettersAndTransitionBg_32
+    21300066: LettersAndTransitionBg_33
+    21300068: LettersAndTransitionBg_34
+    21300070: LettersAndTransitionBg_35
+    21300072: LettersAndTransitionBg_36
+    21300074: LettersAndTransitionBg_37
+    21300076: LettersAndTransitionBg_38
+    21300078: LettersAndTransitionBg_39
+    21300080: LettersAndTransitionBg_40
+    21300082: LettersAndTransitionBg_41
+    21300084: LettersAndTransitionBg_42
+    21300086: LettersAndTransitionBg_43
+    21300088: LettersAndTransitionBg_44
+    21300090: LettersAndTransitionBg_45
+    21300092: LettersAndTransitionBg_46
+    21300094: LettersAndTransitionBg_47
+    21300096: LettersAndTransitionBg_48
+    21300098: LettersAndTransitionBg_49
+    21300100: LettersAndTransitionBg_50
+    21300102: LettersAndTransitionBg_51
+    21300104: LettersAndTransitionBg_52
+    21300106: LettersAndTransitionBg_53
+    21300108: LettersAndTransitionBg_54
+    21300110: LettersAndTransitionBg_55
+    21300112: LettersAndTransitionBg_56
+    21300114: LettersAndTransitionBg_57
+    21300116: LettersAndTransitionBg_58
+    21300118: LettersAndTransitionBg_59
+    21300120: LettersAndTransitionBg_60
+    21300122: LettersAndTransitionBg_61
+    21300124: LettersAndTransitionBg_62
+    21300126: LettersAndTransitionBg_63
+    21300128: LettersAndTransitionBg_64
+    21300130: LettersAndTransitionBg_65
+    21300132: LettersAndTransitionBg_66
+    21300134: LettersAndTransitionBg_67
+    21300136: LettersAndTransitionBg_68
+    21300138: LettersAndTransitionBg_69
+    21300140: LettersAndTransitionBg_70
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 927
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 960
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_2
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 927
+        width: 91
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_3
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 978
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 267
+        width: 567
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 821
+        width: 98
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 927
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_7
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 920
+        width: 40
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_8
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 893
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_9
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 819
+        width: 75
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 825
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_11
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 723
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_12
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 722
+        width: 74
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_13
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 716
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_14
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 718
+        width: 75
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 712
+        width: 52
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 678
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_17
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 613
+        width: 99
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_18
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 623
+        width: 78
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_19
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 622
+        width: 94
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_20
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 612
+        width: 34
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_21
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 597
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_22
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 580
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_23
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 515
+        width: 73
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_24
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 583
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 592
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_26
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 530
+        width: 95
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_27
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 515
+        width: 125
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_28
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 510
+        width: 32
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_29
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 508
+        width: 28
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_30
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 409
+        width: 101
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 437
+        width: 68
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_32
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 485
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 408
+        width: 71
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_34
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 414
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_35
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 404
+        width: 37
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_36
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 308
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_37
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 310
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_38
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 309
+        width: 71
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_39
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 304
+        width: 32
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_40
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 278
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_41
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 281
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_42
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 201
+        width: 91
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_43
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 202
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_44
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 214
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_45
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 184
+        width: 257
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_46
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 258
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_47
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 237
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_48
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 237
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_49
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 214
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_50
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 211
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_51
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 215
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_52
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 34
+        width: 305
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_53
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 199
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_54
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 107
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_55
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 169
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_56
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 86
+        width: 71
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_57
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 108
+        width: 305
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_58
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 104
+        width: 78
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_59
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 96
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_60
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1
+        width: 107
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_61
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_62
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 4
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_63
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 8
+        width: 208
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_64
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 32
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_65
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 16
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_66
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 29
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_67
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_68
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 19
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_69
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 11
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_70
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\The Space\Assets\scripts\ContainerControl.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Score.cs" Line="36" Column="30" />
+      <File FileName="..\..\The Space\Assets\scripts\ContainerControl.cs" Line="47" Column="39" />
+      <File FileName="..\..\The Space\Assets\scripts\Manager.cs" Line="2" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

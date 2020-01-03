@@ -1,0 +1,692 @@
+fileFormatVersion: 2
+guid: 32fb279fbae0c0d4fbe32a3b0768b58d
+timeCreated: 1528257349
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ShopAndSplashScreen_0
+    21300002: ShopAndSplashScreen_1
+    21300004: ShopAndSplashScreen_2
+    21300006: ShopAndSplashScreen_3
+    21300008: ShopAndSplashScreen_4
+    21300010: ShopAndSplashScreen_5
+    21300012: ShopAndSplashScreen_6
+    21300014: ShopAndSplashScreen_7
+    21300016: ShopAndSplashScreen_8
+    21300018: ShopAndSplashScreen_9
+    21300020: ShopAndSplashScreen_10
+    21300022: ShopAndSplashScreen_11
+    21300024: ShopAndSplashScreen_12
+    21300026: ShopAndSplashScreen_13
+    21300028: ShopAndSplashScreen_14
+    21300030: ShopAndSplashScreen_15
+    21300032: ShopAndSplashScreen_16
+    21300034: ShopAndSplashScreen_17
+    21300036: ShopAndSplashScreen_18
+    21300038: ShopAndSplashScreen_19
+    21300040: ShopAndSplashScreen_20
+    21300042: ShopAndSplashScreen_21
+    21300044: ShopAndSplashScreen_22
+    21300046: ShopAndSplashScreen_23
+    21300048: ShopAndSplashScreen_24
+    21300050: ShopAndSplashScreen_25
+    21300052: ShopAndSplashScreen_26
+    21300054: ShopAndSplashScreen_27
+    21300056: ShopAndSplashScreen_28
+    21300058: ShopAndSplashScreen_29
+    21300060: ShopAndSplashScreen_30
+    21300062: ShopAndSplashScreen_31
+    21300064: ShopAndSplashScreen_32
+    21300066: ShopAndSplashScreen_33
+    21300068: ShopAndSplashScreen_34
+    21300070: ShopAndSplashScreen_35
+    21300072: ShopAndSplashScreen_36
+    21300074: ShopAndSplashScreen_37
+    21300076: ShopAndSplashScreen_38
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 658
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_1
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 998
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_2
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 998
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_3
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 998
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_4
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 998
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_5
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 805
+        width: 250
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_6
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 964
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_7
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 885
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_8
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 900
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_9
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 840
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_10
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 855
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_11
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 799
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_12
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 814
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_13
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 788
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_14
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 720
+        width: 148
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_15
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 668
+        width: 140
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_16
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 618
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_17
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 618
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_18
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 618
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_19
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 618
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_20
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 618
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_21
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 560
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_22
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 365
+        width: 226
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_23
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 548
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_24
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 504
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_25
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 460
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_26
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 332
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_27
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 317
+        width: 312
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_28
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 280
+        width: 346
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_30
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 12
+        width: 128
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_31
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 11
+        width: 124
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_32
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 12
+        width: 104
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_33
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 19
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_34
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 92
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_35
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 52
+        width: 344
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_36
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 0
+        width: 104
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShopAndSplashScreen_38
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 5
+        width: 139
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
